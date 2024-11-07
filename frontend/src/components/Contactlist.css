@@ -1,0 +1,37 @@
+
+.list {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .contact-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #66d45e;
+  }
+  
+  .contact-item strong {
+    font-weight: bold;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }
+  
+  .no-contacts {
+    text-align: center;
+    font-size: 18px;
+    color: #888;
+  }
+  
